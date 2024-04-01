@@ -1,6 +1,5 @@
-- 👋 Oieee
-- 👀 Perfil Monitorado pela Prof. Diorja
-- 🌱 Estudante do 2 ano do Ensino Médio
+
+- 
 
   
 
